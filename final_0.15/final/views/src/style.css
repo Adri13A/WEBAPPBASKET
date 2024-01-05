@@ -1,0 +1,41 @@
+
+.containerP {
+    display: flex;
+    max-width: 800px;
+    /* Ajusta la anchura máxima según tus necesidades */
+    overflow: hidden;
+}
+
+.form-containerP {
+    flex: 1;
+    padding: 20px;
+}
+
+.h2P {
+    text-align: center;
+    color: #333;
+}
+
+.formP {
+    display: flex;
+    flex-direction: column;
+}
+
+.btnP {
+    padding: 10px;
+    background-color: #e76518;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.titleP{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:#eb6a17;
+}
+
+.infoP{
+    color: rgb(173, 173, 173);
+    font-size: small;
+}
