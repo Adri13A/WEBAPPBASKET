@@ -1,0 +1,7 @@
+LOG...
+-Se agrego los Submódulos de Grupos y Equipos
+-Se cambiaron las imagenes ilustrativas
+-Acomodo de los titulos de los card de cada archivo
+-Se agrago en la parte del ADMIN del formulario la opcion de poner seleccionar los logos de los patrocinadores (Falta hacer que aguarden las imagenes en el PATH o en la Base de Datos) 
+  --Solo esta la estructra HTML
+  --Falta agregar codigo en Controllers y Models
