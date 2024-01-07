@@ -7,3 +7,5 @@ Se agregaron a la carpeta controllers:
 -capturaJornadasController.php (Módulo 2 - submódulo e).
 
 Calendario de juegos tiene incorporado lo que se necesita para manejar la tabla juegosjugados (Apuntar cuántos partidos dos equipos llevan jugados el uno contra el otro).
+
+la base de datos se actualizó con la tabla juegosjugados y se añadieron llaves foráneas a las tablas equipos y jugadores
