@@ -1,0 +1,4 @@
+-Se agregó en el archivo organizador.php una opcion para ir a el submodulo de jugadores
+-Se agregaron nuevos archivos para lo de jugadores
+-Correcciones a los href de algunos archivos del organizador
+-Se agregaron nuevas funciones en los modelos y controladores de jugadores y equipos, asi como algunas correciones
