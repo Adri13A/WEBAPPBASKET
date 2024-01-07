@@ -1,0 +1,9 @@
+Se agregaron a la carpeta models:
+-calendarioJuegos.php (submódulo d).
+-capturaJornadas.php (submódulo e).
+
+Se agregaron a la carpeta controllers:
+-calendarioJuegosController.php (submódulo d).
+-capturaJornadasController.php (submódulo e).
+
+Calendario de juegos tiene incorporado lo que se necesita para manejar la tabla juegosjugados (Apuntar cuántos partidos dos equipos llevan jugados el uno contra el otro).
